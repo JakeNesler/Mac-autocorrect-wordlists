@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <dict><key>phrase</key><string>AKS</string><key>shortcut</key><string>aks</string></dict>
+  <dict><key>phrase</key><string>Alertmanager</string><key>shortcut</key><string>alertmanager</string></dict>
+  <dict><key>phrase</key><string>ArgoCD</string><key>shortcut</key><string>argocd</string></dict>
+  <dict><key>phrase</key><string>Atlantis</string><key>shortcut</key><string>atlantis</string></dict>
+  <dict><key>phrase</key><string>AWS</string><key>shortcut</key><string>aws</string></dict>
+  <dict><key>phrase</key><string>Azure</string><key>shortcut</key><string>azure</string></dict>
+  <dict><key>phrase</key><string>Btrfs</string><key>shortcut</key><string>btrfs</string></dict>
+  <dict><key>phrase</key><string>Calico</string><key>shortcut</key><string>calico</string></dict>
+  <dict><key>phrase</key><string>Ceph</string><key>shortcut</key><string>ceph</string></dict>
+  <dict><key>phrase</key><string>CI/CD</string><key>shortcut</key><string>cicd</string></dict>
+  <dict><key>phrase</key><string>Cilium</string><key>shortcut</key><string>cilium</string></dict>
+  <dict><key>phrase</key><string>ClickHouse</string><key>shortcut</key><string>clickhouse</string></dict>
+  <dict><key>phrase</key><string>CloudWatch</string><key>shortcut</key><string>cloudwatch</string></dict>
+  <dict><key>phrase</key><string>CNI</string><key>shortcut</key><string>cni</string></dict>
+  <dict><key>phrase</key><string>Consul</string><key>shortcut</key><string>consul</string></dict>
+  <dict><key>phrase</key><string>Crossplane</string><key>shortcut</key><string>crossplane</string></dict>
+  <dict><key>phrase</key><string>DevOps</string><key>shortcut</key><string>devops</string></dict>
+  <dict><key>phrase</key><string>eBPF</string><key>shortcut</key><string>ebpf</string></dict>
+  <dict><key>phrase</key><string>EC2</string><key>shortcut</key><string>ec2</string></dict>
+  <dict><key>phrase</key><string>ECR</string><key>shortcut</key><string>ecr</string></dict>
+  <dict><key>phrase</key><string>EKS</string><key>shortcut</key><string>eks</string></dict>
+  <dict><key>phrase</key><string>eksctl</string><key>shortcut</key><string>eksctl</string></dict>
+  <dict><key>phrase</key><string>Envoy</string><key>shortcut</key><string>envoy</string></dict>
+  <dict><key>phrase</key><string>Flannel</string><key>shortcut</key><string>flannel</string></dict>
+  <dict><key>phrase</key><string>FluxCD</string><key>shortcut</key><string>fluxcd</string></dict>
+  <dict><key>phrase</key><string>Fly.io</string><key>shortcut</key><string>flyio</string></dict>
+  <dict><key>phrase</key><string>GCP</string><key>shortcut</key><string>gcp</string></dict>
+  <dict><key>phrase</key><string>GitOps</string><key>shortcut</key><string>gitops</string></dict>
+  <dict><key>phrase</key><string>GKE</string><key>shortcut</key><string>gke</string></dict>
+  <dict><key>phrase</key><string>Grafana</string><key>shortcut</key><string>grafana</string></dict>
+  <dict><key>phrase</key><string>gRPC</string><key>shortcut</key><string>grpc</string></dict>
+  <dict><key>phrase</key><string>HAProxy</string><key>shortcut</key><string>haproxy</string></dict>
+  <dict><key>phrase</key><string>Harbor</string><key>shortcut</key><string>harbor</string></dict>
+  <dict><key>phrase</key><string>Headscale</string><key>shortcut</key><string>headscale</string></dict>
+  <dict><key>phrase</key><string>Helm</string><key>shortcut</key><string>helm</string></dict>
+  <dict><key>phrase</key><string>IaC</string><key>shortcut</key><string>iac</string></dict>
+  <dict><key>phrase</key><string>IAM</string><key>shortcut</key><string>iam</string></dict>
+  <dict><key>phrase</key><string>iSCSI</string><key>shortcut</key><string>iscsi</string></dict>
+  <dict><key>phrase</key><string>Istio</string><key>shortcut</key><string>istio</string></dict>
+  <dict><key>phrase</key><string>Jaeger</string><key>shortcut</key><string>jaeger</string></dict>
+  <dict><key>phrase</key><string>Jsonnet</string><key>shortcut</key><string>jsonnet</string></dict>
+  <dict><key>phrase</key><string>JWKS</string><key>shortcut</key><string>jwks</string></dict>
+  <dict><key>phrase</key><string>JWT</string><key>shortcut</key><string>jwt</string></dict>
+  <dict><key>phrase</key><string>K3s</string><key>shortcut</key><string>k3s</string></dict>
+  <dict><key>phrase</key><string>K8s</string><key>shortcut</key><string>k8s</string></dict>
+  <dict><key>phrase</key><string>KMS</string><key>shortcut</key><string>kms</string></dict>
+  <dict><key>phrase</key><string>kubeadm</string><key>shortcut</key><string>kubeadm</string></dict>
+  <dict><key>phrase</key><string>kubeconfig</string><key>shortcut</key><string>kubeconfig</string></dict>
+  <dict><key>phrase</key><string>kubectl</string><key>shortcut</key><string>kubectl</string></dict>
+  <dict><key>phrase</key><string>kubelet</string><key>shortcut</key><string>kubelet</string></dict>
+  <dict><key>phrase</key><string>Kustomize</string><key>shortcut</key><string>kustomize</string></dict>
+  <dict><key>phrase</key><string>Lambda</string><key>shortcut</key><string>lambda</string></dict>
+  <dict><key>phrase</key><string>Linkerd</string><key>shortcut</key><string>linkerd</string></dict>
+  <dict><key>phrase</key><string>Linode</string><key>shortcut</key><string>linode</string></dict>
+  <dict><key>phrase</key><string>Loki</string><key>shortcut</key><string>loki</string></dict>
+  <dict><key>phrase</key><string>Longhorn</string><key>shortcut</key><string>longhorn</string></dict>
+  <dict><key>phrase</key><string>Mimir</string><key>shortcut</key><string>mimir</string></dict>
+  <dict><key>phrase</key><string>MQTT</string><key>shortcut</key><string>mqtt</string></dict>
+  <dict><key>phrase</key><string>mTLS</string><key>shortcut</key><string>mtls</string></dict>
+  <dict><key>phrase</key><string>MySQL</string><key>shortcut</key><string>mysql</string></dict>
+  <dict><key>phrase</key><string>NAT GW</string><key>shortcut</key><string>natgw</string></dict>
+  <dict><key>phrase</key><string>NFS</string><key>shortcut</key><string>nfs</string></dict>
+  <dict><key>phrase</key><string>NGINX</string><key>shortcut</key><string>nginx</string></dict>
+  <dict><key>phrase</key><string>Nomad</string><key>shortcut</key><string>nomad</string></dict>
+  <dict><key>phrase</key><string>NVMe</string><key>shortcut</key><string>nvme</string></dict>
+  <dict><key>phrase</key><string>OAuth</string><key>shortcut</key><string>oauth</string></dict>
+  <dict><key>phrase</key><string>OAuth2</string><key>shortcut</key><string>oauth2</string></dict>
+  <dict><key>phrase</key><string>OIDC</string><key>shortcut</key><string>oidc</string></dict>
+  <dict><key>phrase</key><string>OpenTelemetry</string><key>shortcut</key><string>opentelemetry</string></dict>
+  <dict><key>phrase</key><string>OpenWrt</string><key>shortcut</key><string>openwrt</string></dict>
+  <dict><key>phrase</key><string>OPNsense</string><key>shortcut</key><string>opnsense</string></dict>
+  <dict><key>phrase</key><string>OTel</string><key>shortcut</key><string>otel</string></dict>
+  <dict><key>phrase</key><string>Platform Eng</string><key>shortcut</key><string>platformeng</string></dict>
+  <dict><key>phrase</key><string>Platform Engineering</string><key>shortcut</key><string>platformengineering</string></dict>
+  <dict><key>phrase</key><string>Pod CIDR</string><key>shortcut</key><string>podcidr</string></dict>
+  <dict><key>phrase</key><string>Postgres</string><key>shortcut</key><string>postgres</string></dict>
+  <dict><key>phrase</key><string>Prometheus</string><key>shortcut</key><string>prometheus</string></dict>
+  <dict><key>phrase</key><string>proto</string><key>shortcut</key><string>proto</string></dict>
+  <dict><key>phrase</key><string>Protobuf</string><key>shortcut</key><string>protobuf</string></dict>
+  <dict><key>phrase</key><string>Proxmox</string><key>shortcut</key><string>proxmox</string></dict>
+  <dict><key>phrase</key><string>QEMU</string><key>shortcut</key><string>qemu</string></dict>
+  <dict><key>phrase</key><string>Radarr</string><key>shortcut</key><string>radarr</string></dict>
+  <dict><key>phrase</key><string>RDS</string><key>shortcut</key><string>rds</string></dict>
+  <dict><key>phrase</key><string>Redis</string><key>shortcut</key><string>redis</string></dict>
+  <dict><key>phrase</key><string>RKE2</string><key>shortcut</key><string>rke2</string></dict>
+  <dict><key>phrase</key><string>Rook</string><key>shortcut</key><string>rook</string></dict>
+  <dict><key>phrase</key><string>Route 53</string><key>shortcut</key><string>route53</string></dict>
+  <dict><key>phrase</key><string>S3</string><key>shortcut</key><string>s3</string></dict>
+  <dict><key>phrase</key><string>SAML</string><key>shortcut</key><string>saml</string></dict>
+  <dict><key>phrase</key><string>Service CIDR</string><key>shortcut</key><string>servicecidr</string></dict>
+  <dict><key>phrase</key><string>SMB</string><key>shortcut</key><string>smb</string></dict>
+  <dict><key>phrase</key><string>Sonarr</string><key>shortcut</key><string>sonarr</string></dict>
+  <dict><key>phrase</key><string>Spacelift</string><key>shortcut</key><string>spacelift</string></dict>
+  <dict><key>phrase</key><string>SRE</string><key>shortcut</key><string>sre</string></dict>
+  <dict><key>phrase</key><string>SSD</string><key>shortcut</key><string>ssd</string></dict>
+  <dict><key>phrase</key><string>SSO</string><key>shortcut</key><string>sso</string></dict>
+  <dict><key>phrase</key><string>Tailscale</string><key>shortcut</key><string>tailscale</string></dict>
+  <dict><key>phrase</key><string>Tempo</string><key>shortcut</key><string>tempo</string></dict>
+  <dict><key>phrase</key><string>Terraform</string><key>shortcut</key><string>terraform</string></dict>
+  <dict><key>phrase</key><string>Thanos</string><key>shortcut</key><string>thanos</string></dict>
+  <dict><key>phrase</key><string>OpenTofu</string><key>shortcut</key><string>opentofu</string></dict>
+  <dict><key>phrase</key><string>Traefik</string><key>shortcut</key><string>traefik</string></dict>
+  <dict><key>phrase</key><string>tsnet</string><key>shortcut</key><string>tsnet</string></dict>
+  <dict><key>phrase</key><string>UniFi</string><key>shortcut</key><string>unifi</string></dict>
+  <dict><key>phrase</key><string>Vault</string><key>shortcut</key><string>vault</string></dict>
+  <dict><key>phrase</key><string>Velero</string><key>shortcut</key><string>velero</string></dict>
+  <dict><key>phrase</key><string>VFIO</string><key>shortcut</key><string>vfio</string></dict>
+  <dict><key>phrase</key><string>VPC</string><key>shortcut</key><string>vpc</string></dict>
+  <dict><key>phrase</key><string>WireGuard</string><key>shortcut</key><string>wireguard</string></dict>
+  <dict><key>phrase</key><string>YAML</string><key>shortcut</key><string>yaml</string></dict>
+  <dict><key>phrase</key><string>ZFS</string><key>shortcut</key><string>zfs</string></dict>
+</array>
+</plist>
